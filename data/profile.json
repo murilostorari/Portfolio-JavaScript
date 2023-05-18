@@ -1,0 +1,71 @@
+{
+  "name": "Murilo Storari",
+  "photo": "https://avatars.githubusercontent.com/u/103851143?v=4",
+  "job": "Graduando em Ciência da Computação",
+  "location": "Lucélia - SP",
+  "phone": "(18) 99622-9347",
+  "email": "adrian.murilo83@gmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "HTML",
+        "logo": "https://raw.githubusercontent.com/murilostorari/Portfolio-JavaScript/main/data/imgs/html.png"
+      },
+      {
+        "name": "CSS",
+        "logo": "https://raw.githubusercontent.com/murilostorari/Portfolio-JavaScript/main/data/imgs/css.png"
+      },      
+      {
+        "name": "C#",
+        "logo": "https://raw.githubusercontent.com/murilostorari/Portfolio-JavaScript/main/data/imgs/csharp.png"
+      },
+      {
+        "name": "Git",
+        "logo": "https://raw.githubusercontent.com/murilostorari/Portfolio-JavaScript/main/data/imgs/git.png"
+      }
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Organização"
+    ]
+  },
+  "languages": [
+    "Português - BR",
+    "Inglês (intermediário)",
+    "Espanhol (intermediário)"
+  ],
+  "portfolio": [
+    {
+      "name": "Formação HTML Web Developer - Carga horária: 21h - DIO",
+      "url": "https://www.dio.me/certificate/C3416F01",
+      "github": false
+    },
+    {
+      "name": "Bootcamp Microsoft Dynamics 365 - Carga horária: 95h - DIO",
+      "url": "https://www.dio.me/certificate/E5FE35F4",
+      "github": false
+    },
+    {
+      "name": "Fundamentos do Marketing Digital- Carga horária: 40h - Google",
+      "url": "https://drive.google.com/file/d/1TVq8B9cuMBwSDXfdt_YOvw6HX0HxOO80/view",
+      "github": false
+    },
+    {
+      "name": "Fundamentos de lógica de programação - Carga horária: 15h - Fundação Bradesco",
+      "url": "https://drive.google.com/file/d/1qA7pKiF8x4yQPX1MH9ffdq2wy7z_gv-w/view",
+      "github": false
+    },
+    {
+      "name": "Informática Básica - Carga horária: 120h - MicroWay",
+      "url": "",
+      "github": false
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Desenvolvedor Freelancer",
+      "period": "2023 - até o momento",
+      "description": "Faço alguns projetos freelancers."
+    }
+  ]
+}
