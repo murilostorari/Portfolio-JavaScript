@@ -1,11 +1,11 @@
 * {
     box-sizing: border-box;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 
 @font-face {
-    font-family: 'Neue Machina';
-    src: url('../fonts/neue-machina-regular.otf');
+    font-family: 'Roboto';
+    src: url('../fonts/Roboto-Regular.otf');
 }
 
 body {
